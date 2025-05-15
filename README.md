@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FailuRahman/Leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
