@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/FailuRahman/Leetcode/tree/master/0507-perfect-number) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
