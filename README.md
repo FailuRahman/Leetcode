@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/FailuRahman/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/FailuRahman/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
