@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Math
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FailuRahman/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 ## Simulation
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/FailuRahman/Leetcode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Number Theory
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Linked List
 |  |
@@ -151,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
