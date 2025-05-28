@@ -1,5 +1,6 @@
 public class Solution {
     public bool ContainsDuplicate(int[] nums) {
+        
         HashSet<int> seen = new HashSet<int>();
 
         foreach (int num in nums) {
