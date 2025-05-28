@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FailuRahman/Leetcode/tree/master/0344-reverse-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/FailuRahman/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
