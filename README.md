@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/FailuRahman/Leetcode/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/FailuRahman/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/FailuRahman/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Bit Manipulation
 |  |
