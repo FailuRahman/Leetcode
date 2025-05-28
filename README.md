@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/FailuRahman/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FailuRahman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/FailuRahman/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FailuRahman/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/FailuRahman/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FailuRahman/Leetcode/tree/master/0137-single-number-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
