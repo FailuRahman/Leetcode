@@ -116,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FailuRahman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/FailuRahman/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/FailuRahman/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/FailuRahman/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/FailuRahman/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
