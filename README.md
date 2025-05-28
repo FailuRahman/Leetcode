@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FailuRahman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/FailuRahman/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FailuRahman/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/FailuRahman/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Linked List
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FailuRahman/Leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
