@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FailuRahman/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/FailuRahman/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FailuRahman/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/FailuRahman/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/FailuRahman/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/FailuRahman/Leetcode/tree/master/0507-perfect-number) |
