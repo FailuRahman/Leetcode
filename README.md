@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/FailuRahman/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/FailuRahman/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FailuRahman/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
