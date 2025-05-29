@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FailuRahman/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FailuRahman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/FailuRahman/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/FailuRahman/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/FailuRahman/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/FailuRahman/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/FailuRahman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/FailuRahman/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FailuRahman/Leetcode/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/FailuRahman/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/FailuRahman/Leetcode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
