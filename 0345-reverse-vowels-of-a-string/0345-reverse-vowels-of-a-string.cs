@@ -2,7 +2,7 @@ public class Solution {
     public string ReverseVowels(string s) {
         List<char> vowels = new List<char>();
         
-   
+    
         foreach (char c in s) {
             if ("aeiouAEIOU".Contains(c)) {
                 vowels.Add(c);
