@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/FailuRahman/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/FailuRahman/Leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/FailuRahman/Leetcode/tree/master/2383-add-two-integers) |
