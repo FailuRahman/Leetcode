@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/FailuRahman/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FailuRahman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/FailuRahman/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/FailuRahman/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
