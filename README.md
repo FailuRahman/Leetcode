@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FailuRahman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/FailuRahman/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/FailuRahman/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/FailuRahman/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/FailuRahman/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
