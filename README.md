@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/FailuRahman/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/FailuRahman/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/FailuRahman/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/FailuRahman/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/FailuRahman/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/FailuRahman/Leetcode/tree/master/0415-add-strings) |
@@ -148,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/FailuRahman/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/FailuRahman/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/FailuRahman/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/FailuRahman/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FailuRahman/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/FailuRahman/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/FailuRahman/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/FailuRahman/Leetcode/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
