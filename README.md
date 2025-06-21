@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/FailuRahman/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/FailuRahman/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0824-number-of-lines-to-write-string](https://github.com/FailuRahman/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/FailuRahman/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/FailuRahman/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/FailuRahman/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/FailuRahman/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/FailuRahman/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
