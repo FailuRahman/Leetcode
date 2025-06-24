@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/FailuRahman/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/FailuRahman/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/FailuRahman/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/FailuRahman/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/FailuRahman/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/FailuRahman/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/FailuRahman/Leetcode/tree/master/0258-add-digits) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/FailuRahman/Leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/FailuRahman/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/FailuRahman/Leetcode/tree/master/0367-valid-perfect-square) |
