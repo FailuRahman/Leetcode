@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0824-number-of-lines-to-write-string](https://github.com/FailuRahman/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/FailuRahman/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/FailuRahman/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/FailuRahman/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/FailuRahman/Leetcode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/FailuRahman/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/FailuRahman/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Number Theory
 |  |
