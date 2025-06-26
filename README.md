@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
+| [1287-distance-between-bus-stops](https://github.com/FailuRahman/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/FailuRahman/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
