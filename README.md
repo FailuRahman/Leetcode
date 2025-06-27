@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1287-distance-between-bus-stops](https://github.com/FailuRahman/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/FailuRahman/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FailuRahman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
+| [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/FailuRahman/Leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/FailuRahman/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/FailuRahman/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/FailuRahman/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Linked List
 |  |
