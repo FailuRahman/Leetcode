@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1287-distance-between-bus-stops](https://github.com/FailuRahman/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/FailuRahman/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/FailuRahman/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/FailuRahman/Leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/FailuRahman/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/FailuRahman/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Enumeration
 |  |
