@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1168-duplicate-zeros](https://github.com/FailuRahman/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1287-distance-between-bus-stops](https://github.com/FailuRahman/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/FailuRahman/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FailuRahman/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/FailuRahman/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/FailuRahman/Leetcode/tree/master/0605-can-place-flowers) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
