@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1168-duplicate-zeros](https://github.com/FailuRahman/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1287-distance-between-bus-stops](https://github.com/FailuRahman/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FailuRahman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/FailuRahman/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/FailuRahman/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FailuRahman/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FailuRahman/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FailuRahman/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/FailuRahman/Leetcode/tree/master/2083-three-divisors) |
