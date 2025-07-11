@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FailuRahman/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/FailuRahman/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
