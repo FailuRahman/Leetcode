@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/FailuRahman/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/FailuRahman/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3379-score-of-a-string](https://github.com/FailuRahman/Leetcode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
