@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/FailuRahman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/FailuRahman/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/FailuRahman/Leetcode/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/FailuRahman/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
 | ------- |
