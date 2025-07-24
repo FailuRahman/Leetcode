@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2507-number-of-common-factors](https://github.com/FailuRahman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/FailuRahman/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/FailuRahman/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FailuRahman/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/FailuRahman/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/FailuRahman/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/FailuRahman/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/FailuRahman/Leetcode/tree/master/3379-score-of-a-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/FailuRahman/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/FailuRahman/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/FailuRahman/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Linked List
 |  |
 | ------- |
