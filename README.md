@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/FailuRahman/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/FailuRahman/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/FailuRahman/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/FailuRahman/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/FailuRahman/Leetcode/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FailuRahman/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/FailuRahman/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/FailuRahman/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/FailuRahman/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/FailuRahman/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FailuRahman/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/FailuRahman/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/FailuRahman/Leetcode/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FailuRahman/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -305,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/FailuRahman/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
