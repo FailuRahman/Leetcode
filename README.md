@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/FailuRahman/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/FailuRahman/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3321-type-of-triangle](https://github.com/FailuRahman/Leetcode/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/FailuRahman/Leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/FailuRahman/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2507-number-of-common-factors](https://github.com/FailuRahman/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/FailuRahman/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/FailuRahman/Leetcode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3321-type-of-triangle](https://github.com/FailuRahman/Leetcode/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/FailuRahman/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## String
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/FailuRahman/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/FailuRahman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FailuRahman/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3321-type-of-triangle](https://github.com/FailuRahman/Leetcode/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
 | ------- |
